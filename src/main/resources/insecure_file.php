@@ -3,6 +3,8 @@ dummy stuff
 
 dummy stuff
 
+dummy stuff
+
 <?php
 
 // First a SQL Injection attack V9
